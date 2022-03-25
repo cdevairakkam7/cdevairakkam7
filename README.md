@@ -1,5 +1,8 @@
 ### Hi Folks, 
 
+I am the founder of Url.cafe - a url shortener.
+Here are my links.
+
 * [My notes](https://github.com/cdevairakkam7/notes/blob/main/README.md)
 * [Data Stack I Recommend](https://github.com/cdevairakkam7/Tech-Stack)
 * [Python Scripts](https://github.com/cdevairakkam7/Python-Projects/blob/master/README.md)
