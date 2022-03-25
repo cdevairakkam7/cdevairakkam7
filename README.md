@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Folks, 
 
-<!--
-**cdevairakkam7/cdevairakkam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [My notes](https://github.com/cdevairakkam7/notes/blob/main/README.md)
+* [Data Stack I Recommend](https://github.com/cdevairakkam7/Tech-Stack)
+* [Python Scripts](https://github.com/cdevairakkam7/Python-Projects/blob/master/README.md)
+* [SQL Code](https://github.com/cdevairakkam7/SQL-Queries)
+* [International Space Station Location Finder](https://github.com/cdevairakkam7/iss_location_now)
+* [Statistical Modelling](https://github.com/cdevairakkam7/Statistical-Modelling-)
+* [Data Build Tool](https://github.com/cdevairakkam7/data_build_tool)
+* [R Projects](https://github.com/cdevairakkam7/R-Projects)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
