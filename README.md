@@ -21,7 +21,7 @@ Here are my links.
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdevairakkam7&layout=compact)](https://github.com/devairakkam7/github-readme-stats)
 
 
 
