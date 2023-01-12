@@ -1,7 +1,6 @@
 ### Hi Folks, 
 
-I am the founder of [Url.cafe](https://url.cafe) - a url shortener.<br>
-I am also the Co-Founder of [DataPeak.io](https://datapeak.io) - a analytics consulting company.<br>
+I am also the Founder and CEO of [Analyze.Agency](https://analyze.agency) - a analytics consulting company.<br>
 Here are my links.
 
 * [My notes](https://github.com/cdevairakkam7/notes/blob/main/README.md)
