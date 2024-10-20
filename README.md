@@ -1,8 +1,6 @@
 ### Hi Folks, 
 
-Currently, I work as an Analytics Manager for Stand8.
-
-I am also the Founder and CEO of [Analyze.Agency](https://analyze.agency) - an analytics consulting company.<br>
+I am the Founder and CEO of [Analyze.Agency](https://analyze.agency) - an analytics consulting company.<br>
 Here are my links.
 
 * [My notes](https://github.com/cdevairakkam7/notes/blob/main/README.md)
